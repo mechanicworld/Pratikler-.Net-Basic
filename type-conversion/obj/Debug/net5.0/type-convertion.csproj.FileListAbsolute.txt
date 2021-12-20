@@ -1,0 +1,16 @@
+C:\Users\Oguz.Demir.MIRSIS\Desktop\Masaüstü Yedek\Tutorials-Trainings\Pratikler\Pratikler-.Net-Basic-main\type-conversion\obj\Debug\net5.0\type-convertion.csproj.AssemblyReference.cache
+C:\Users\Oguz.Demir.MIRSIS\Desktop\Masaüstü Yedek\Tutorials-Trainings\Pratikler\Pratikler-.Net-Basic-main\type-conversion\obj\Debug\net5.0\type-convertion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oguz.Demir.MIRSIS\Desktop\Masaüstü Yedek\Tutorials-Trainings\Pratikler\Pratikler-.Net-Basic-main\type-conversion\obj\Debug\net5.0\type-convertion.AssemblyInfoInputs.cache
+C:\Users\Oguz.Demir.MIRSIS\Desktop\Masaüstü Yedek\Tutorials-Trainings\Pratikler\Pratikler-.Net-Basic-main\type-conversion\obj\Debug\net5.0\type-convertion.AssemblyInfo.cs
+C:\Users\Oguz.Demir.MIRSIS\Desktop\Masaüstü Yedek\Tutorials-Trainings\Pratikler\Pratikler-.Net-Basic-main\type-conversion\obj\Debug\net5.0\type-convertion.csproj.CoreCompileInputs.cache
+C:\Users\Oguz.Demir.MIRSIS\Desktop\Masaüstü Yedek\Tutorials-Trainings\Pratikler\Pratikler-.Net-Basic-main\type-conversion\bin\Debug\net5.0\type-convertion.exe
+C:\Users\Oguz.Demir.MIRSIS\Desktop\Masaüstü Yedek\Tutorials-Trainings\Pratikler\Pratikler-.Net-Basic-main\type-conversion\bin\Debug\net5.0\type-convertion.deps.json
+C:\Users\Oguz.Demir.MIRSIS\Desktop\Masaüstü Yedek\Tutorials-Trainings\Pratikler\Pratikler-.Net-Basic-main\type-conversion\bin\Debug\net5.0\type-convertion.runtimeconfig.json
+C:\Users\Oguz.Demir.MIRSIS\Desktop\Masaüstü Yedek\Tutorials-Trainings\Pratikler\Pratikler-.Net-Basic-main\type-conversion\bin\Debug\net5.0\type-convertion.runtimeconfig.dev.json
+C:\Users\Oguz.Demir.MIRSIS\Desktop\Masaüstü Yedek\Tutorials-Trainings\Pratikler\Pratikler-.Net-Basic-main\type-conversion\bin\Debug\net5.0\type-convertion.dll
+C:\Users\Oguz.Demir.MIRSIS\Desktop\Masaüstü Yedek\Tutorials-Trainings\Pratikler\Pratikler-.Net-Basic-main\type-conversion\bin\Debug\net5.0\ref\type-convertion.dll
+C:\Users\Oguz.Demir.MIRSIS\Desktop\Masaüstü Yedek\Tutorials-Trainings\Pratikler\Pratikler-.Net-Basic-main\type-conversion\bin\Debug\net5.0\type-convertion.pdb
+C:\Users\Oguz.Demir.MIRSIS\Desktop\Masaüstü Yedek\Tutorials-Trainings\Pratikler\Pratikler-.Net-Basic-main\type-conversion\obj\Debug\net5.0\type-convertion.dll
+C:\Users\Oguz.Demir.MIRSIS\Desktop\Masaüstü Yedek\Tutorials-Trainings\Pratikler\Pratikler-.Net-Basic-main\type-conversion\obj\Debug\net5.0\ref\type-convertion.dll
+C:\Users\Oguz.Demir.MIRSIS\Desktop\Masaüstü Yedek\Tutorials-Trainings\Pratikler\Pratikler-.Net-Basic-main\type-conversion\obj\Debug\net5.0\type-convertion.pdb
+C:\Users\Oguz.Demir.MIRSIS\Desktop\Masaüstü Yedek\Tutorials-Trainings\Pratikler\Pratikler-.Net-Basic-main\type-conversion\obj\Debug\net5.0\type-convertion.genruntimeconfig.cache
