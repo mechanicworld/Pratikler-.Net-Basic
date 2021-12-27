@@ -1,18 +1,19 @@
+
 using System;
 
 namespace inheritance
 {
     public class LivingCreatures
     {
-        public void Feed(){
+        protected void Feed(){
           Console.WriteLine("Living creatures feed");
         }
 
-        public void Breathe(){
+        protected void Breathe(){
           Console.WriteLine("Living creatures breathe");
         }
 
-        public void Excrete(){
+        protected void Excrete(){
           Console.WriteLine("Living creatures Excretion");
         }
     }

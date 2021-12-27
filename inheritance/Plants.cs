@@ -2,23 +2,43 @@ using System;
 
 namespace inheritance
 {
-    public class Plants:LivingCreatures
+  public class Plants : LivingCreatures
+  {
+    protected void Photosynthesise()
     {
-      public void Photosynthesise(){
-          Console.WriteLine("Living creatures photosynthesise.");
-        }
+      Console.WriteLine("Living creatures photosynthesise.");
     }
-    public class SeedPlants:Plants
+  }
+  public class SeedPlants : Plants
+  {
+    public SeedPlants()
     {
-      public void ReproductionWithSeeds(){
-        Console.WriteLine("Seed plants use seeds for reproduction.");
-      } 
-    }
+      base.Photosynthesise();
+      base.Breathe();
+      base.Excrete();
+      base.Feed();
 
-    public class SeedlessPlants:Plants
-    {
-      public void ReproductionWithSpore(){
-        Console.WriteLine("Seed plants use spores for reproduction.");
-      } 
     }
+    public void ReproductionWithSeeds()
+    {
+      Console.WriteLine("Seed plants use seeds for reproduction.");
+    }
+  }
+
+  public class SeedlessPlants : Plants
+  {
+    public SeedlessPlants()
+    {
+      // For protected structure we need to add base method to 
+      // vhild class to be reached 
+      base.Photosynthesise();
+      base.Breathe();
+      base.Excrete();
+      base.Feed();
+    }
+    public void ReproductionWithSpore()
+    {
+      Console.WriteLine("Seed plants use spores for reproduction.");
+    }
+  }
 }
