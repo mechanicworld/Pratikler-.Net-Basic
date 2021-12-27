@@ -2,7 +2,7 @@ using System;
 
 namespace inheritance
 {
-    public class Animals
+    public class Animals:LivingCreatures
     {
       public void Adaptation(){
           Console.WriteLine("Living creatures Excretion");

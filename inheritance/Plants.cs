@@ -2,7 +2,7 @@ using System;
 
 namespace inheritance
 {
-    public class Plants
+    public class Plants:LivingCreatures
     {
       public void Photosynthesise(){
           Console.WriteLine("Living creatures photosynthesise.");

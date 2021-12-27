@@ -2,14 +2,14 @@ using System;
 
 namespace inheritance
 {
-    class LivingCreatures
+    public class LivingCreatures
     {
         public void Feed(){
           Console.WriteLine("Living creatures feed");
         }
 
         public void Breathe(){
-          Console.WriteLine("Living creatures feed");
+          Console.WriteLine("Living creatures breathe");
         }
 
         public void Excrete(){
